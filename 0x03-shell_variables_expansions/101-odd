@@ -1,3 +1,2 @@
 #!/bin/bash
-#Paste - - displays three columns, cut -f 1 only shows the first column"
 ls | paste - - | cut -f 1
